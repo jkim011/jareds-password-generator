@@ -9,5 +9,5 @@ This application is a random password generator made with starter code that was 
 n/a
 
 ## Usage 
-![] (./assets/module3screenshot.jpg) <br>
+![](./assets/module3screenshot.JPG) <br>
 **Deploy application:** https://jkim011.github.io/jareds-password-generator/
